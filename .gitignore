@@ -1,0 +1,16 @@
+.idea
+*.tgz
+*.tar.gz
+*.iml
+**/.project
+**/.settings
+**/build/
+**/target/
+**/out/
+**/hs_err_pid*
+.attach_pid*
+**/.vscode/
+**/.DS_Store
+*.dmg
+emsdk
+wasi-sdk-16.0
